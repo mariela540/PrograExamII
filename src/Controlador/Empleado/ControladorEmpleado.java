@@ -9,5 +9,7 @@ package Controlador.Empleado;
  * @author Student
  */
 public class ControladorEmpleado {
+    private String EmpleCaja;
+    private String EmplePlataf;
     
 }

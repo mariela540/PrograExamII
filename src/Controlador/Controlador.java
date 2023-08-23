@@ -4,7 +4,7 @@
  */
 package Controlador;
 
-import java.util.HashMap;
+
 
 /**
  *
@@ -13,18 +13,12 @@ import java.util.HashMap;
 public class Controlador {
     private int Generar;
     private String Atender;
-    private int tickete;
 
     public Controlador(int Generar, String Atender) {
-        this.tickete = tickete ;
+
         this.Generar = Generar;
         this.Atender = Atender;
     }
     
-   public void Insert(){
-       
-   }
-public void Delete(){
     
-} 
 }

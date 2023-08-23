@@ -8,6 +8,6 @@ package data;
  *
  * @author Student
  */
-public class ListEmpleado {
+public interface List<Type> {
     
 }
